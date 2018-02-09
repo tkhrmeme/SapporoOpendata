@@ -8,3 +8,7 @@
 )」のCSVデータをGeoJSON形式に変換した．
 
 ライセンスは [クリエイティブ・コモンズ　表示 - 改変禁止 4.0 国際 (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.ja)
+
+## 学級閉鎖情報
+
+[インフルエンザの発生動向と市立学校等の学級閉鎖等情報](https://www.city.sapporo.jp/hokenjo/f1kansen/f003influ-kyugyo.html) のページで公開されているインフルエンザによる学級閉鎖等情報のうち，市立学校の学級閉鎖情報をPDFからCSV形式に変換した．
